@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "dQw4w9WgXcQ",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "publishedAt": "2026-04-10T16:05:00Z",
+      "title": "Original YouTube Title (placeholder)",
+      "aiTitle": "Patience in Trials — A Short Reminder",
+      "topics": ["Hadith", "Riyadh as-Salihin"]
+    },
+    {
+      "id": "eY52Zsg-KVI",
+      "url": "https://www.youtube.com/watch?v=eY52Zsg-KVI",
+      "publishedAt": "2026-03-02T03:30:00Z",
+      "title": "Original YouTube Title (placeholder)",
+      "aiTitle": "Tafsir of Surah Al-Fatihah — Themes and Lessons",
+      "topics": ["Quran", "Tafsir"]
+    },
+    {
+      "id": "3GwjfUFyY6M",
+      "url": "https://www.youtube.com/watch?v=3GwjfUFyY6M",
+      "publishedAt": "2025-12-15T14:15:00Z",
+      "title": "Original YouTube Title (placeholder)",
+      "aiTitle": "Al-Wajeez (Fiqh) — Purification Basics",
+      "topics": ["Fiqh", "Al-Wajeez"]
+    }
+  ]
+}

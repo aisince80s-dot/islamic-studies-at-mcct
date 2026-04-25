@@ -1,0 +1,49 @@
+name: Update videos.json
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily at 05:30 UTC (~10:30pm Arizona, ~1:30am EDT)
+    - cron: '30 5 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-videos
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Fetch latest videos
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          YT_CHANNEL_ID: UCt-XeQTVRSETC9DceeC6nMw
+          MONTHS: '6'
+          OUT_PATH: public/videos.json
+        run: node scripts/fetch-youtube.mjs
+
+      - name: Commit videos.json
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/videos.json
+          git commit -m "chore: update videos.json"
+          git push

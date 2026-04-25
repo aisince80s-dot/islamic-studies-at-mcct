@@ -1,0 +1,10 @@
+node_modules
+/dist
+.DS_Store
+.env
+
+# local OpenClaw state / secrets
+.openclaw/github_deploy_key
+.openclaw/github_deploy_key.pub
+.openclaw/ssh_config_github
+.openclaw/workspace-state.json
