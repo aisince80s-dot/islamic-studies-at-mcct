@@ -143,8 +143,9 @@ async function main(){
         timeOfDay: timeOfDayBucket(publishedAt),
         title: sn.title || '',
         description: sn.description || '',
-        aiTitle: aiTitleFallback(sn),
-        topics: classifyTopics(textForTopics)
+        // aiTitle/topics will be overwritten by the transcript+Claude enrichment step.
+        aiTitle: null,
+        topics: []
       }
     })
     .filter(v => v.publishedAt)
