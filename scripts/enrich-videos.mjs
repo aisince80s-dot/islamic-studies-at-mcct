@@ -119,6 +119,7 @@ async function main(){
       v.aiTitle = aiTitle
       v.topics = topics
       v.summary = summary
+      delete v.enrichError
       v.enrichedAt = new Date().toISOString()
       v.channelId = CHANNEL_ID
 
@@ -126,6 +127,9 @@ async function main(){
       await sleep(Number(process.env.SLEEP_MS || '800'))
     } catch (err) {
       v.enrichError = String(err?.message || err)
+      // Fallback: if transcript is unavailable, keep a cleaned YouTube title and basic topic guess.
+      if (!v.aiTitle) v.aiTitle = v.title || 'Untitled'
+      if (!Array.isArray(v.topics) || v.topics.length === 0) v.topics = ['Other']
       v.enrichedAt = new Date().toISOString()
       console.warn(`Failed ${id}: ${v.enrichError}`)
       await sleep(400)
