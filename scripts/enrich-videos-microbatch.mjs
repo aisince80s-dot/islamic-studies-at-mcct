@@ -100,9 +100,21 @@ async function getTranscriptText(videoId){
   return text
 }
 
+const retryCooldownHours = Number(process.env.RETRY_COOLDOWN_HOURS || '24')
+
 function shouldEnrich(v){
   if (!v?.id) return false
-  if (v.enrichError) return true
+
+  // Cooldown for retries after failures
+  if (v.enrichError && v.enrichedAt) {
+    const last = Date.parse(v.enrichedAt)
+    if (!Number.isNaN(last)) {
+      const hours = (Date.now() - last) / (1000 * 60 * 60)
+      if (hours < retryCooldownHours) return false
+    }
+    return true
+  }
+
   if (!v.aiTitle) return true
   if (!v.summary) return true
   if (!Array.isArray(v.topics) || v.topics.length === 0) return true
