@@ -93,7 +93,7 @@ async function getTranscriptText(videoId){
   }
 
   const files = await fs.readdir(tmp)
-  const vttFiles = files.filter(f => f.startsWith(videoId) && f.endsWith('.vtt'))
+  const vttFiles = files.filter(f => f.includes(videoId) && f.endsWith('.vtt'))
   if (vttFiles.length === 0) {
     throw new Error('Transcript unavailable (yt-dlp)')
   }
