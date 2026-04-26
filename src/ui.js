@@ -10,7 +10,12 @@ async function loadData(){
   return res.json()
 }
 
-function timeOfDayBucket(d){
+function timeOfDayFromItem(v){
+  // Prefer server-provided classification (already AZ + livestream-aware)
+  if (v && typeof v.timeOfDay === 'string' && v.timeOfDay) return v.timeOfDay
+
+  // Fallback (should be rare): compute from timeBasis/publishedAt in local browser time
+  const d = v?.timeBasis || v?.publishedAt
   const h = dayjs(d).hour()
   if (h < 12) return 'morning'
   if (h < 17) return 'afternoon'
@@ -104,7 +109,7 @@ export async function renderApp(root){
     const published = dayjs(v.publishedAt)
 
     if (state.timeOfDay !== 'all') {
-      if (timeOfDayBucket(published) !== state.timeOfDay) return false
+      if (timeOfDayFromItem(v) !== state.timeOfDay) return false
     }
 
     if (state.topic !== 'all') {
@@ -131,7 +136,7 @@ export async function renderApp(root){
 
     els.results.innerHTML = items.map(v => {
       const published = dayjs(v.publishedAt)
-      const tod = timeOfDayBucket(published)
+      const tod = timeOfDayFromItem(v)
       const topics = (v.topics || []).map(t => `<span class="chip">${t}</span>`).join('')
       const title = v.aiTitle || v.title
 
