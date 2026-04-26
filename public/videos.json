@@ -196,8 +196,12 @@
       "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": null,
-      "topics": []
+      "aiTitle": "The Book of Purification: Types of Water in Islamic Law",
+      "topics": [
+        "Fiqh"
+      ],
+      "summary": "This lecture discusses the Islamic jurisprudential classification of water into pure and impure categories, using the example of a well near Medina to illustrate when water becomes unsuitable for ritual purification. The instructor explains the principle that water remains pure unless contaminated by filth that changes its color, taste, or smell, and addresses scholarly disagreements about whether diluted liquids like tea or coffee constitute a third category.",
+      "enrichedAt": "2026-04-26T07:31:01.727Z"
     },
     {
       "id": "0aHNNGXfv2A",
@@ -209,8 +213,13 @@
       "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": null,
-      "topics": []
+      "aiTitle": "The Quran's Living Dialogue and Signs of the Day of Judgment",
+      "topics": [
+        "Quran",
+        "Aqeedah"
+      ],
+      "summary": "This lecture explores the Quran as a living, dynamic text that engages believers in dialogue with Allah, and discusses major signs of the Day of Judgment including the sun rising from the west and the emergence of the Dabbah (animal from the earth) that will distinguish believers from disbelievers.",
+      "enrichedAt": "2026-04-26T07:31:01.312Z"
     },
     {
       "id": "BG8rm5gw05M",
@@ -222,8 +231,13 @@
       "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": null,
-      "topics": []
+      "aiTitle": "Al-Wajeez: Book of Purification - Water and Its Types",
+      "topics": [
+        "Al-Wajeez",
+        "Fiqh"
+      ],
+      "summary": "A lecture on the opening chapter of Al-Wajeez covering the book of purification, focusing on the rulings regarding water as the primary means of ritual purification. The instructor explains the default state of water from natural sources and presents Quranic and prophetic evidence for the purity and purifying nature of water, including seawater.",
+      "enrichedAt": "2026-04-26T07:31:04.783Z"
     },
     {
       "id": "G3GTgTdL38Y",
@@ -235,8 +249,13 @@
       "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": null,
-      "topics": []
+      "aiTitle": "Surah Al-Yunus: Refutation of Disbelief and the Day of Judgment",
+      "topics": [
+        "Quran",
+        "Tafsir"
+      ],
+      "summary": "A detailed Quranic exegesis of Surah Al-Yunus, focusing on its comprehensive refutation of pre-Islamic beliefs and disbelief, and concluding with an explanation of the verse asking what disbelievers are waiting for—the angels of death, Allah's arrival, or the major signs of the Day of Judgment.",
+      "enrichedAt": "2026-04-26T07:31:05.606Z"
     },
     {
       "id": "Y8THu4yab_U",
@@ -261,8 +280,13 @@
       "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": null,
-      "topics": []
+      "aiTitle": "Al-Wajeez: Beginning the Book of Purification",
+      "topics": [
+        "Al-Wajeez",
+        "Fiqh"
+      ],
+      "summary": "This lecture marks the completion of the book of fasting in Al-Wajeez and the beginning of the book of purification. The instructor discusses how Islamic jurisprudence books are traditionally organized following the famous narration of Gabriel, starting with the pillars of Islam and purification as foundational topics.",
+      "enrichedAt": "2026-04-26T07:31:07.729Z"
     },
     {
       "id": "zTx9u4kUhoE",
@@ -3996,5 +4020,5 @@
       "topics": []
     }
   ],
-  "enrichedAt": "2026-04-26T07:18:47.466Z"
+  "enrichedAt": "2026-04-26T07:31:07.730Z"
 }
