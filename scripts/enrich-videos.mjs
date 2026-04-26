@@ -86,8 +86,10 @@ async function getTranscriptText(videoId){
     url
   ]
 
+  const ytDlpBin = process.env.YT_DLP_BIN || '/data/linuxbrew/.linuxbrew/bin/yt-dlp'
+
   try {
-    await execFileAsync('yt-dlp', args, { timeout: 120000 })
+    await execFileAsync(ytDlpBin, args, { timeout: 120000 })
   } catch (e) {
     // yt-dlp sometimes returns non-zero even when it writes files; continue to scan dir
   }
