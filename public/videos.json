@@ -1,232 +1,167 @@
 {
   "channelId": "UCt-XeQTVRSETC9DceeC6nMw",
-  "generatedAt": "2026-04-26T00:11:27.670Z",
-  "cutoffAfter": "2025-10-26T00:11:25.817Z",
+  "generatedAt": "2026-04-26T06:18:51.221Z",
+  "cutoffAfter": "2025-10-26T06:18:48.301Z",
   "items": [
     {
       "id": "2cGfzMoSy7M",
       "url": "https://www.youtube.com/watch?v=2cGfzMoSy7M",
       "publishedAt": "2026-04-20T21:49:20Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "afternoon",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "The Antichrist (Dajjal): Descriptions and Signs",
-      "topics": [
-        "Hadith"
-      ],
-      "summary": "This lecture discusses prophetic descriptions of the Dajjal (Antichrist) from hadith, including his 40-day presence on Earth, his rapid movement across lands, his miraculous abilities, and his encounter with a young believer. The speaker explains how these accounts should be understood literally and explores the nature of the Dajjal's extraordinary powers.",
-      "enrichedAt": "2026-04-26T06:10:29.704Z",
-      "channelId": "UCt-XeQTVRSETC9DceeC6nMw"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "82Q8LKSgicI",
       "url": "https://www.youtube.com/watch?v=82Q8LKSgicI",
       "publishedAt": "2026-04-19T12:36:40Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:29.372Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "g8SlVd-_tZA",
       "url": "https://www.youtube.com/watch?v=g8SlVd-_tZA",
       "publishedAt": "2026-04-19T04:02:12Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:30.248Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "6hzoB1fsr8o",
       "url": "https://www.youtube.com/watch?v=6hzoB1fsr8o",
       "publishedAt": "2026-04-18T12:41:10Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:31.292Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "OLSABiUNC8U",
       "url": "https://www.youtube.com/watch?v=OLSABiUNC8U",
       "publishedAt": "2026-04-17T20:49:51Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "afternoon",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:32.336Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "proMCkFJNcg",
       "url": "https://www.youtube.com/watch?v=proMCkFJNcg",
       "publishedAt": "2026-04-17T16:12:19Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:33.420Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "UobTeMIK8pI",
       "url": "https://www.youtube.com/watch?v=UobTeMIK8pI",
       "publishedAt": "2026-04-17T13:00:32Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:34.366Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "ZJ9avrfwPM8",
       "url": "https://www.youtube.com/watch?v=ZJ9avrfwPM8",
       "publishedAt": "2026-04-16T16:07:47Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:35.439Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "OLahSmC1dfU",
       "url": "https://www.youtube.com/watch?v=OLahSmC1dfU",
       "publishedAt": "2026-04-16T12:44:37Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:36.592Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "NiRcFg7xqww",
       "url": "https://www.youtube.com/watch?v=NiRcFg7xqww",
       "publishedAt": "2026-04-15T12:53:07Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:37.479Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "wRDuplM0Pag",
       "url": "https://www.youtube.com/watch?v=wRDuplM0Pag",
       "publishedAt": "2026-04-14T12:49:00Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:38.421Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "0aHNNGXfv2A",
       "url": "https://www.youtube.com/watch?v=0aHNNGXfv2A",
       "publishedAt": "2026-04-13T04:14:04Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:39.303Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "BG8rm5gw05M",
       "url": "https://www.youtube.com/watch?v=BG8rm5gw05M",
       "publishedAt": "2026-04-13T00:50:16Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:40.345Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "G3GTgTdL38Y",
       "url": "https://www.youtube.com/watch?v=G3GTgTdL38Y",
       "publishedAt": "2026-04-12T18:44:54Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:41.260Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "Y8THu4yab_U",
       "url": "https://www.youtube.com/watch?v=Y8THu4yab_U",
       "publishedAt": "2026-04-11T16:36:57Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:42.229Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "VUev-xLJ8Ps",
       "url": "https://www.youtube.com/watch?v=VUev-xLJ8Ps",
       "publishedAt": "2026-04-11T12:54:56Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:43.303Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "zTx9u4kUhoE",
@@ -235,838 +170,598 @@
       "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:44.310Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "nHKQMqoE2T0",
       "url": "https://www.youtube.com/watch?v=nHKQMqoE2T0",
       "publishedAt": "2026-04-10T04:06:38Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:45.204Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "v-bMpPdW0no",
       "url": "https://www.youtube.com/watch?v=v-bMpPdW0no",
       "publishedAt": "2026-04-09T12:41:32Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:46.146Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "nm_le422WiA",
       "url": "https://www.youtube.com/watch?v=nm_le422WiA",
       "publishedAt": "2026-04-09T04:11:04Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:47.051Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "FJhxoSqK6MI",
       "url": "https://www.youtube.com/watch?v=FJhxoSqK6MI",
       "publishedAt": "2026-04-09T00:52:15Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:47.990Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "UkH8qPluTnM",
       "url": "https://www.youtube.com/watch?v=UkH8qPluTnM",
       "publishedAt": "2026-04-07T13:09:56Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:48.825Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "C64vhXPFea4",
       "url": "https://www.youtube.com/watch?v=C64vhXPFea4",
       "publishedAt": "2026-04-06T12:47:11Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:49.799Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "OTaFwEGpPs8",
       "url": "https://www.youtube.com/watch?v=OTaFwEGpPs8",
       "publishedAt": "2026-04-06T03:58:01Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:50.759Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "NQWI7_CA3X4",
       "url": "https://www.youtube.com/watch?v=NQWI7_CA3X4",
       "publishedAt": "2026-04-05T12:47:36Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:51.741Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "Xcw3qxp5GVk",
       "url": "https://www.youtube.com/watch?v=Xcw3qxp5GVk",
       "publishedAt": "2026-04-04T15:46:13Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:52.779Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "zB_HWsl7f6k",
       "url": "https://www.youtube.com/watch?v=zB_HWsl7f6k",
       "publishedAt": "2026-04-04T12:52:54Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:53.903Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "5AQE9s7xzwY",
       "url": "https://www.youtube.com/watch?v=5AQE9s7xzwY",
       "publishedAt": "2026-04-03T13:19:15Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:54.852Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "p89mgHNlfno",
       "url": "https://www.youtube.com/watch?v=p89mgHNlfno",
       "publishedAt": "2026-04-02T15:49:07Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:55.693Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "V4tDio0i2yI",
       "url": "https://www.youtube.com/watch?v=V4tDio0i2yI",
       "publishedAt": "2026-04-02T13:13:49Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:56.675Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "OGzXCYWbLXc",
       "url": "https://www.youtube.com/watch?v=OGzXCYWbLXc",
       "publishedAt": "2026-04-02T01:30:25Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:57.587Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "VS0TuQCQ_zk",
       "url": "https://www.youtube.com/watch?v=VS0TuQCQ_zk",
       "publishedAt": "2026-03-31T13:13:38Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:58.659Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "_XA-36_MlPw",
       "url": "https://www.youtube.com/watch?v=_XA-36_MlPw",
       "publishedAt": "2026-03-30T13:15:09Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:11:59.747Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "Dts193XUYyE",
       "url": "https://www.youtube.com/watch?v=Dts193XUYyE",
       "publishedAt": "2026-03-30T03:44:03Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:12:00.714Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "VzMLzPT92bM",
       "url": "https://www.youtube.com/watch?v=VzMLzPT92bM",
       "publishedAt": "2026-03-29T13:16:45Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:12:01.583Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "ntWvGfe-hY0",
       "url": "https://www.youtube.com/watch?v=ntWvGfe-hY0",
       "publishedAt": "2026-03-29T03:34:22Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:12:02.542Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "0s8UQIukGs0",
       "url": "https://www.youtube.com/watch?v=0s8UQIukGs0",
       "publishedAt": "2026-03-28T15:42:16Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:12:03.601Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "XLns5ay9zsY",
       "url": "https://www.youtube.com/watch?v=XLns5ay9zsY",
       "publishedAt": "2026-03-28T13:17:17Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:12:04.506Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "_MmBOTxkgJg",
       "url": "https://www.youtube.com/watch?v=_MmBOTxkgJg",
       "publishedAt": "2026-03-27T20:37:35Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "afternoon",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:12:05.502Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "2QNRxhxPxQk",
       "url": "https://www.youtube.com/watch?v=2QNRxhxPxQk",
       "publishedAt": "2026-03-27T13:14:51Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript too short/unavailable",
-      "enrichedAt": "2026-04-26T00:12:06.498Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "J8tnPCP4D-U",
       "url": "https://www.youtube.com/watch?v=J8tnPCP4D-U",
       "publishedAt": "2026-03-26T15:53:58Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:46:14.147Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "bt6vtOosjUU",
       "url": "https://www.youtube.com/watch?v=bt6vtOosjUU",
       "publishedAt": "2026-03-26T13:16:44Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:46:14.555Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "awxDSP6oOMQ",
       "url": "https://www.youtube.com/watch?v=awxDSP6oOMQ",
       "publishedAt": "2026-03-25T13:13:48Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:46:14.961Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "S6f79ori_ug",
       "url": "https://www.youtube.com/watch?v=S6f79ori_ug",
       "publishedAt": "2026-03-24T13:20:28Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:46:15.367Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "6Ec2e9G_yZw",
       "url": "https://www.youtube.com/watch?v=6Ec2e9G_yZw",
       "publishedAt": "2026-03-23T13:21:58Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:46:15.773Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "zvZwVyTE6To",
       "url": "https://www.youtube.com/watch?v=zvZwVyTE6To",
       "publishedAt": "2026-03-22T13:27:04Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:48:01.247Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "QYqNjMuaN0o",
       "url": "https://www.youtube.com/watch?v=QYqNjMuaN0o",
       "publishedAt": "2026-03-21T15:39:03Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:41.084Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "DaWqjtRK2FE",
       "url": "https://www.youtube.com/watch?v=DaWqjtRK2FE",
       "publishedAt": "2026-03-21T13:24:22Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:41.491Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "HVURXNWGu08",
       "url": "https://www.youtube.com/watch?v=HVURXNWGu08",
       "publishedAt": "2026-03-21T04:26:55Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:41.897Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "RwyA6WcOoaI",
       "url": "https://www.youtube.com/watch?v=RwyA6WcOoaI",
       "publishedAt": "2026-03-21T03:28:03Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:42.304Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "qhmudIyxUTs",
       "url": "https://www.youtube.com/watch?v=qhmudIyxUTs",
       "publishedAt": "2026-03-20T16:25:06Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:42.710Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "clmNAkwAKyM",
       "url": "https://www.youtube.com/watch?v=clmNAkwAKyM",
       "publishedAt": "2026-03-19T17:55:25Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:43.115Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "BQ__vH67m1I",
       "url": "https://www.youtube.com/watch?v=BQ__vH67m1I",
       "publishedAt": "2026-03-19T13:32:08Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:43.520Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "BmS40TIi_vM",
       "url": "https://www.youtube.com/watch?v=BmS40TIi_vM",
       "publishedAt": "2026-03-19T01:30:32Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:43.926Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "WDjp-K1cQs8",
       "url": "https://www.youtube.com/watch?v=WDjp-K1cQs8",
       "publishedAt": "2026-03-18T17:31:59Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:44.331Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "qFhZCOHEroA",
       "url": "https://www.youtube.com/watch?v=qFhZCOHEroA",
       "publishedAt": "2026-03-17T18:30:27Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:44.736Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "HRioo7ttC-k",
       "url": "https://www.youtube.com/watch?v=HRioo7ttC-k",
       "publishedAt": "2026-03-17T13:19:30Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:45.141Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "173ZqIVdaHM",
       "url": "https://www.youtube.com/watch?v=173ZqIVdaHM",
       "publishedAt": "2026-03-16T01:30:24Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:45.545Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "XGn-3mFWUHs",
       "url": "https://www.youtube.com/watch?v=XGn-3mFWUHs",
       "publishedAt": "2026-03-15T17:28:06Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:45.952Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "slLNu1AKfGM",
       "url": "https://www.youtube.com/watch?v=slLNu1AKfGM",
       "publishedAt": "2026-03-15T01:27:59Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:46.358Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "8c4XVWew4O0",
       "url": "https://www.youtube.com/watch?v=8c4XVWew4O0",
       "publishedAt": "2026-03-14T17:32:59Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:46.764Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "NIya5kMmpPA",
       "url": "https://www.youtube.com/watch?v=NIya5kMmpPA",
       "publishedAt": "2026-03-14T01:37:08Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:47.167Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "Lq-Jkdt_59g",
       "url": "https://www.youtube.com/watch?v=Lq-Jkdt_59g",
       "publishedAt": "2026-03-13T20:53:33Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "afternoon",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:47.572Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "lvygz9CdApU",
       "url": "https://www.youtube.com/watch?v=lvygz9CdApU",
       "publishedAt": "2026-03-13T17:37:59Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:47.977Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "_GBZUOlDHXY",
       "url": "https://www.youtube.com/watch?v=_GBZUOlDHXY",
       "publishedAt": "2026-03-13T01:38:30Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:48.384Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "b1GqHckzX4I",
       "url": "https://www.youtube.com/watch?v=b1GqHckzX4I",
       "publishedAt": "2026-03-12T17:41:25Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:48.789Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "Im5f7h6G7xY",
       "url": "https://www.youtube.com/watch?v=Im5f7h6G7xY",
       "publishedAt": "2026-03-12T01:42:22Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:49.194Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "gOqadW9Nbo0",
       "url": "https://www.youtube.com/watch?v=gOqadW9Nbo0",
       "publishedAt": "2026-03-11T17:14:24Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:49.599Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "IEWtUt5xsb8",
       "url": "https://www.youtube.com/watch?v=IEWtUt5xsb8",
       "publishedAt": "2026-03-11T01:41:29Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:50.005Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "KM_-gNm6jYw",
       "url": "https://www.youtube.com/watch?v=KM_-gNm6jYw",
       "publishedAt": "2026-03-10T17:16:09Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:50.410Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "0zwDGtwJ2sU",
       "url": "https://www.youtube.com/watch?v=0zwDGtwJ2sU",
       "publishedAt": "2026-03-10T01:39:34Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:50.816Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "BdQ9FeD2JT0",
       "url": "https://www.youtube.com/watch?v=BdQ9FeD2JT0",
       "publishedAt": "2026-03-09T16:52:56Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:51.222Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "og-_MWYQNd8",
       "url": "https://www.youtube.com/watch?v=og-_MWYQNd8",
       "publishedAt": "2026-03-09T01:50:04Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:51.627Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "XUb7BPrtKIY",
       "url": "https://www.youtube.com/watch?v=XUb7BPrtKIY",
       "publishedAt": "2026-03-08T17:45:10Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:52.033Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "d5nMeWOgaPk",
       "url": "https://www.youtube.com/watch?v=d5nMeWOgaPk",
       "publishedAt": "2026-03-08T01:39:49Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:52.438Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "mXZ6qfjUjgg",
       "url": "https://www.youtube.com/watch?v=mXZ6qfjUjgg",
       "publishedAt": "2026-03-07T17:35:34Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:52.845Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "T2ZffZTgrUU",
@@ -1075,208 +770,148 @@
       "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:53.251Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "KrCvC5GcxAw",
       "url": "https://www.youtube.com/watch?v=KrCvC5GcxAw",
       "publishedAt": "2026-03-06T17:08:45Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:53.655Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "dIAdMIWioII",
       "url": "https://www.youtube.com/watch?v=dIAdMIWioII",
       "publishedAt": "2026-03-06T13:43:10Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:54.060Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "J-xbTJbGcI4",
       "url": "https://www.youtube.com/watch?v=J-xbTJbGcI4",
       "publishedAt": "2026-03-05T17:03:19Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:54.466Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "xr6rm0nKGrs",
       "url": "https://www.youtube.com/watch?v=xr6rm0nKGrs",
       "publishedAt": "2026-03-05T13:43:52Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:54.870Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "wmtSu-FOKHs",
       "url": "https://www.youtube.com/watch?v=wmtSu-FOKHs",
       "publishedAt": "2026-03-05T01:40:44Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:55.276Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "4KzDYxu5EEg",
       "url": "https://www.youtube.com/watch?v=4KzDYxu5EEg",
       "publishedAt": "2026-03-04T17:24:10Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:55.681Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "Lvf-qpRnUP4",
       "url": "https://www.youtube.com/watch?v=Lvf-qpRnUP4",
       "publishedAt": "2026-03-04T01:39:37Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:56.086Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "YPuGBD6rfec",
       "url": "https://www.youtube.com/watch?v=YPuGBD6rfec",
       "publishedAt": "2026-03-03T17:21:20Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:56.495Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "v1-ripECPlU",
       "url": "https://www.youtube.com/watch?v=v1-ripECPlU",
       "publishedAt": "2026-03-03T01:39:51Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:56.901Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "J3jZ5NAPggw",
       "url": "https://www.youtube.com/watch?v=J3jZ5NAPggw",
       "publishedAt": "2026-03-02T17:09:35Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:57.306Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "GZOqqy5kCAU",
       "url": "https://www.youtube.com/watch?v=GZOqqy5kCAU",
       "publishedAt": "2026-03-02T01:51:38Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:57.713Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "YuAgVPebbeQ",
       "url": "https://www.youtube.com/watch?v=YuAgVPebbeQ",
       "publishedAt": "2026-03-01T17:24:50Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:58.118Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "LuhznVq-iBg",
       "url": "https://www.youtube.com/watch?v=LuhznVq-iBg",
       "publishedAt": "2026-02-28T17:13:38Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:58.523Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "idx8TB5F1aM",
       "url": "https://www.youtube.com/watch?v=idx8TB5F1aM",
       "publishedAt": "2026-02-28T13:40:20Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:58.930Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "9cJKzu7QH7Q",
@@ -1285,60 +920,44 @@
       "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:59.336Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "hKQrovL7Q_w",
       "url": "https://www.youtube.com/watch?v=hKQrovL7Q_w",
       "publishedAt": "2026-02-27T13:46:30Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:49:59.743Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "nRIhFwqoris",
       "url": "https://www.youtube.com/watch?v=nRIhFwqoris",
       "publishedAt": "2026-02-26T17:28:31Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:50:00.151Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "y1XCuxlUExE",
       "url": "https://www.youtube.com/watch?v=y1XCuxlUExE",
       "publishedAt": "2026-02-26T13:46:10Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
-      "aiTitle": "Muslim Community Center Of Tucson",
-      "topics": [
-        "Other"
-      ],
-      "enrichError": "Transcript unavailable (yt-dlp)",
-      "enrichedAt": "2026-04-26T05:50:00.558Z"
+      "aiTitle": null,
+      "topics": []
     },
     {
       "id": "oThADgeYlgQ",
       "url": "https://www.youtube.com/watch?v=oThADgeYlgQ",
       "publishedAt": "2026-02-25T13:46:45Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1348,7 +967,7 @@
       "id": "a6Jtr0JCuDE",
       "url": "https://www.youtube.com/watch?v=a6Jtr0JCuDE",
       "publishedAt": "2026-02-25T01:53:26Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1358,7 +977,7 @@
       "id": "jDsdK1yLejI",
       "url": "https://www.youtube.com/watch?v=jDsdK1yLejI",
       "publishedAt": "2026-02-24T18:09:41Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1368,7 +987,7 @@
       "id": "nJtDEe-MYec",
       "url": "https://www.youtube.com/watch?v=nJtDEe-MYec",
       "publishedAt": "2026-02-23T23:28:58Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "afternoon",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1378,7 +997,7 @@
       "id": "pI5c0lFZFZM",
       "url": "https://www.youtube.com/watch?v=pI5c0lFZFZM",
       "publishedAt": "2026-02-23T13:59:34Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1388,7 +1007,7 @@
       "id": "FiuaugVrTD8",
       "url": "https://www.youtube.com/watch?v=FiuaugVrTD8",
       "publishedAt": "2026-02-23T02:05:30Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1398,7 +1017,7 @@
       "id": "fRHf2UfkGow",
       "url": "https://www.youtube.com/watch?v=fRHf2UfkGow",
       "publishedAt": "2026-02-22T16:23:11Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1408,7 +1027,7 @@
       "id": "WWmFW00BUhs",
       "url": "https://www.youtube.com/watch?v=WWmFW00BUhs",
       "publishedAt": "2026-02-22T05:00:13Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1418,7 +1037,7 @@
       "id": "cY9d1pHqPHE",
       "url": "https://www.youtube.com/watch?v=cY9d1pHqPHE",
       "publishedAt": "2026-02-21T21:03:55Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "afternoon",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1428,7 +1047,7 @@
       "id": "JBR8JCGY2nE",
       "url": "https://www.youtube.com/watch?v=JBR8JCGY2nE",
       "publishedAt": "2026-02-21T14:43:00Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1448,7 +1067,7 @@
       "id": "GKcQyMSGt1k",
       "url": "https://www.youtube.com/watch?v=GKcQyMSGt1k",
       "publishedAt": "2026-02-20T16:55:56Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1458,7 +1077,7 @@
       "id": "-bHeUy0AXw8",
       "url": "https://www.youtube.com/watch?v=-bHeUy0AXw8",
       "publishedAt": "2026-02-20T14:43:26Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1468,7 +1087,7 @@
       "id": "ZeA65jymJJc",
       "url": "https://www.youtube.com/watch?v=ZeA65jymJJc",
       "publishedAt": "2026-02-19T17:49:04Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1478,7 +1097,7 @@
       "id": "HuSc8OuuA5A",
       "url": "https://www.youtube.com/watch?v=HuSc8OuuA5A",
       "publishedAt": "2026-02-19T13:49:49Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1488,7 +1107,7 @@
       "id": "unxYpDR5sIc",
       "url": "https://www.youtube.com/watch?v=unxYpDR5sIc",
       "publishedAt": "2026-02-18T13:50:36Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1498,7 +1117,7 @@
       "id": "NSMNSfGiAFQ",
       "url": "https://www.youtube.com/watch?v=NSMNSfGiAFQ",
       "publishedAt": "2026-02-17T15:49:56Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1508,7 +1127,7 @@
       "id": "VeA88577yZo",
       "url": "https://www.youtube.com/watch?v=VeA88577yZo",
       "publishedAt": "2026-02-17T13:49:36Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1518,7 +1137,7 @@
       "id": "Gm2DS7-oJBc",
       "url": "https://www.youtube.com/watch?v=Gm2DS7-oJBc",
       "publishedAt": "2026-02-16T15:51:19Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1528,7 +1147,7 @@
       "id": "O-jbpfE2i8I",
       "url": "https://www.youtube.com/watch?v=O-jbpfE2i8I",
       "publishedAt": "2026-02-16T13:52:32Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1538,7 +1157,7 @@
       "id": "H_L3aygcuY4",
       "url": "https://www.youtube.com/watch?v=H_L3aygcuY4",
       "publishedAt": "2026-02-15T13:48:48Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1548,7 +1167,7 @@
       "id": "7RgBnQKrvBQ",
       "url": "https://www.youtube.com/watch?v=7RgBnQKrvBQ",
       "publishedAt": "2026-02-15T03:43:28Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1558,7 +1177,7 @@
       "id": "PiyWcJ6QvuE",
       "url": "https://www.youtube.com/watch?v=PiyWcJ6QvuE",
       "publishedAt": "2026-02-14T15:16:55Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1578,7 +1197,7 @@
       "id": "6ecpEJlnM8I",
       "url": "https://www.youtube.com/watch?v=6ecpEJlnM8I",
       "publishedAt": "2026-02-13T13:59:32Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1588,7 +1207,7 @@
       "id": "GrnPtOR6VZs",
       "url": "https://www.youtube.com/watch?v=GrnPtOR6VZs",
       "publishedAt": "2026-02-13T03:12:18Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1598,7 +1217,7 @@
       "id": "J523XGxwogE",
       "url": "https://www.youtube.com/watch?v=J523XGxwogE",
       "publishedAt": "2026-02-12T14:01:09Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1608,7 +1227,7 @@
       "id": "bNUo2VznYy0",
       "url": "https://www.youtube.com/watch?v=bNUo2VznYy0",
       "publishedAt": "2026-02-07T15:25:03Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1618,7 +1237,7 @@
       "id": "TSfl9w0a6So",
       "url": "https://www.youtube.com/watch?v=TSfl9w0a6So",
       "publishedAt": "2026-02-07T14:55:00Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1628,7 +1247,7 @@
       "id": "pZm3Y2AUeL0",
       "url": "https://www.youtube.com/watch?v=pZm3Y2AUeL0",
       "publishedAt": "2026-02-07T14:54:48Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1638,7 +1257,7 @@
       "id": "WAEcJbuIcnc",
       "url": "https://www.youtube.com/watch?v=WAEcJbuIcnc",
       "publishedAt": "2026-02-07T14:06:36Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1658,7 +1277,7 @@
       "id": "Kuy8mRyV73Y",
       "url": "https://www.youtube.com/watch?v=Kuy8mRyV73Y",
       "publishedAt": "2026-02-06T15:16:44Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1668,7 +1287,7 @@
       "id": "cawDQgIp5aU",
       "url": "https://www.youtube.com/watch?v=cawDQgIp5aU",
       "publishedAt": "2026-02-06T14:02:34Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1678,7 +1297,7 @@
       "id": "8uGbTkcmMEs",
       "url": "https://www.youtube.com/watch?v=8uGbTkcmMEs",
       "publishedAt": "2026-02-05T14:05:44Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1688,7 +1307,7 @@
       "id": "7bmhPsoN69A",
       "url": "https://www.youtube.com/watch?v=7bmhPsoN69A",
       "publishedAt": "2026-02-05T05:03:16Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1698,7 +1317,7 @@
       "id": "sGOpHT6wSx0",
       "url": "https://www.youtube.com/watch?v=sGOpHT6wSx0",
       "publishedAt": "2026-02-03T13:59:14Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1708,7 +1327,7 @@
       "id": "GFmxRjaeeB0",
       "url": "https://www.youtube.com/watch?v=GFmxRjaeeB0",
       "publishedAt": "2026-02-02T15:24:54Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1718,7 +1337,7 @@
       "id": "cYh0vZzHD-U",
       "url": "https://www.youtube.com/watch?v=cYh0vZzHD-U",
       "publishedAt": "2026-02-02T14:03:57Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1728,7 +1347,7 @@
       "id": "66SMtj7ZeS4",
       "url": "https://www.youtube.com/watch?v=66SMtj7ZeS4",
       "publishedAt": "2026-02-01T14:04:58Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1738,7 +1357,7 @@
       "id": "5zNehl465PM",
       "url": "https://www.youtube.com/watch?v=5zNehl465PM",
       "publishedAt": "2026-02-01T03:06:42Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1748,7 +1367,7 @@
       "id": "Nt0MLGj0LPo",
       "url": "https://www.youtube.com/watch?v=Nt0MLGj0LPo",
       "publishedAt": "2026-01-31T15:17:37Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1758,7 +1377,7 @@
       "id": "35amfwujTXs",
       "url": "https://www.youtube.com/watch?v=35amfwujTXs",
       "publishedAt": "2026-01-31T14:05:42Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1778,7 +1397,7 @@
       "id": "VXX60POGCSY",
       "url": "https://www.youtube.com/watch?v=VXX60POGCSY",
       "publishedAt": "2026-01-31T02:06:35Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1788,7 +1407,7 @@
       "id": "aIHtAnU2ye0",
       "url": "https://www.youtube.com/watch?v=aIHtAnU2ye0",
       "publishedAt": "2026-01-30T15:26:44Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1798,7 +1417,7 @@
       "id": "ly0cGROBK9U",
       "url": "https://www.youtube.com/watch?v=ly0cGROBK9U",
       "publishedAt": "2026-01-29T15:42:10Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1808,7 +1427,7 @@
       "id": "dR6xAeHW2_Q",
       "url": "https://www.youtube.com/watch?v=dR6xAeHW2_Q",
       "publishedAt": "2026-01-29T02:10:37Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1818,7 +1437,7 @@
       "id": "Le4eDvajxdM",
       "url": "https://www.youtube.com/watch?v=Le4eDvajxdM",
       "publishedAt": "2026-01-28T02:09:07Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1828,7 +1447,7 @@
       "id": "iDKEQMdEKBo",
       "url": "https://www.youtube.com/watch?v=iDKEQMdEKBo",
       "publishedAt": "2026-01-26T14:04:19Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1838,7 +1457,7 @@
       "id": "U-7FPrjFh8Q",
       "url": "https://www.youtube.com/watch?v=U-7FPrjFh8Q",
       "publishedAt": "2026-01-26T02:14:58Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1848,7 +1467,7 @@
       "id": "OpdVLOJQaE0",
       "url": "https://www.youtube.com/watch?v=OpdVLOJQaE0",
       "publishedAt": "2026-01-25T02:07:57Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1858,7 +1477,7 @@
       "id": "K_ssBhw9A_E",
       "url": "https://www.youtube.com/watch?v=K_ssBhw9A_E",
       "publishedAt": "2026-01-24T15:26:58Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1878,7 +1497,7 @@
       "id": "LMjQ8uYVR2Y",
       "url": "https://www.youtube.com/watch?v=LMjQ8uYVR2Y",
       "publishedAt": "2026-01-24T02:08:49Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1888,7 +1507,7 @@
       "id": "ZPnN0DvTAIQ",
       "url": "https://www.youtube.com/watch?v=ZPnN0DvTAIQ",
       "publishedAt": "2026-01-23T15:47:52Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1898,7 +1517,7 @@
       "id": "pGqyEArCFNM",
       "url": "https://www.youtube.com/watch?v=pGqyEArCFNM",
       "publishedAt": "2026-01-22T15:27:13Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1908,7 +1527,7 @@
       "id": "9BTNEj7dVXo",
       "url": "https://www.youtube.com/watch?v=9BTNEj7dVXo",
       "publishedAt": "2026-01-22T14:01:02Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1918,7 +1537,7 @@
       "id": "wOm8tp03kkg",
       "url": "https://www.youtube.com/watch?v=wOm8tp03kkg",
       "publishedAt": "2026-01-21T14:19:39Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1928,7 +1547,7 @@
       "id": "m_0h9oZ5FeQ",
       "url": "https://www.youtube.com/watch?v=m_0h9oZ5FeQ",
       "publishedAt": "2026-01-20T14:18:55Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1938,7 +1557,7 @@
       "id": "xg4yIfjnNcQ",
       "url": "https://www.youtube.com/watch?v=xg4yIfjnNcQ",
       "publishedAt": "2026-01-19T15:19:37Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1948,7 +1567,7 @@
       "id": "1sGCnAeCDdg",
       "url": "https://www.youtube.com/watch?v=1sGCnAeCDdg",
       "publishedAt": "2026-01-19T14:21:00Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1958,7 +1577,7 @@
       "id": "hbQn2lAJ94s",
       "url": "https://www.youtube.com/watch?v=hbQn2lAJ94s",
       "publishedAt": "2026-01-18T16:24:38Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1968,7 +1587,7 @@
       "id": "vHB0uWWvK_Y",
       "url": "https://www.youtube.com/watch?v=vHB0uWWvK_Y",
       "publishedAt": "2026-01-17T15:16:08Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1978,7 +1597,7 @@
       "id": "emu3uvQbf-k",
       "url": "https://www.youtube.com/watch?v=emu3uvQbf-k",
       "publishedAt": "2026-01-17T14:50:41Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -1998,7 +1617,7 @@
       "id": "CVt3YjmbG9M",
       "url": "https://www.youtube.com/watch?v=CVt3YjmbG9M",
       "publishedAt": "2026-01-16T14:08:19Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2008,7 +1627,7 @@
       "id": "Vg2RIxdfGHg",
       "url": "https://www.youtube.com/watch?v=Vg2RIxdfGHg",
       "publishedAt": "2026-01-16T02:12:38Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2018,7 +1637,7 @@
       "id": "IXdeMvCldO8",
       "url": "https://www.youtube.com/watch?v=IXdeMvCldO8",
       "publishedAt": "2026-01-15T15:16:57Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2028,7 +1647,7 @@
       "id": "zsARC0yxgS4",
       "url": "https://www.youtube.com/watch?v=zsARC0yxgS4",
       "publishedAt": "2026-01-15T02:06:44Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2038,7 +1657,7 @@
       "id": "oAzTz0TGH8Q",
       "url": "https://www.youtube.com/watch?v=oAzTz0TGH8Q",
       "publishedAt": "2026-01-14T02:04:15Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2048,7 +1667,7 @@
       "id": "sU7jgznmnEA",
       "url": "https://www.youtube.com/watch?v=sU7jgznmnEA",
       "publishedAt": "2026-01-12T15:06:19Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2058,7 +1677,7 @@
       "id": "OQ9_Pt_Xv9c",
       "url": "https://www.youtube.com/watch?v=OQ9_Pt_Xv9c",
       "publishedAt": "2026-01-12T14:05:58Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2068,7 +1687,7 @@
       "id": "q2d2Zsrivb0",
       "url": "https://www.youtube.com/watch?v=q2d2Zsrivb0",
       "publishedAt": "2026-01-12T03:01:15Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2078,7 +1697,7 @@
       "id": "eJ27pk5oe4c",
       "url": "https://www.youtube.com/watch?v=eJ27pk5oe4c",
       "publishedAt": "2026-01-11T03:09:55Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2088,7 +1707,7 @@
       "id": "_Tc2bCTl3jM",
       "url": "https://www.youtube.com/watch?v=_Tc2bCTl3jM",
       "publishedAt": "2026-01-11T02:09:42Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2098,7 +1717,7 @@
       "id": "W4-64XlkQjM",
       "url": "https://www.youtube.com/watch?v=W4-64XlkQjM",
       "publishedAt": "2026-01-10T15:18:04Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2108,7 +1727,7 @@
       "id": "nI6pGlZ6J9Q",
       "url": "https://www.youtube.com/watch?v=nI6pGlZ6J9Q",
       "publishedAt": "2026-01-10T05:12:44Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2118,7 +1737,7 @@
       "id": "NxMKa1tCnLY",
       "url": "https://www.youtube.com/watch?v=NxMKa1tCnLY",
       "publishedAt": "2026-01-10T01:07:28Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2128,7 +1747,7 @@
       "id": "hPULDzgkKXg",
       "url": "https://www.youtube.com/watch?v=hPULDzgkKXg",
       "publishedAt": "2026-01-09T23:23:12Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "afternoon",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2138,7 +1757,7 @@
       "id": "NL0NjuyHC4g",
       "url": "https://www.youtube.com/watch?v=NL0NjuyHC4g",
       "publishedAt": "2026-01-08T15:13:45Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2148,7 +1767,7 @@
       "id": "GCDAg_FUaTk",
       "url": "https://www.youtube.com/watch?v=GCDAg_FUaTk",
       "publishedAt": "2026-01-07T22:38:19Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "afternoon",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2158,7 +1777,7 @@
       "id": "cgzhuh7IVnM",
       "url": "https://www.youtube.com/watch?v=cgzhuh7IVnM",
       "publishedAt": "2026-01-06T15:10:00Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2168,7 +1787,7 @@
       "id": "9SvqbnHd5ew",
       "url": "https://www.youtube.com/watch?v=9SvqbnHd5ew",
       "publishedAt": "2026-01-05T18:06:18Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2178,7 +1797,7 @@
       "id": "qNYtXwRWyRA",
       "url": "https://www.youtube.com/watch?v=qNYtXwRWyRA",
       "publishedAt": "2026-01-05T18:02:04Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2188,7 +1807,7 @@
       "id": "D5vgFCbd3SE",
       "url": "https://www.youtube.com/watch?v=D5vgFCbd3SE",
       "publishedAt": "2026-01-04T16:47:23Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2198,7 +1817,7 @@
       "id": "vO5tmumWffE",
       "url": "https://www.youtube.com/watch?v=vO5tmumWffE",
       "publishedAt": "2026-01-04T14:03:27Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2208,7 +1827,7 @@
       "id": "5Rjv5JE94sc",
       "url": "https://www.youtube.com/watch?v=5Rjv5JE94sc",
       "publishedAt": "2026-01-04T02:11:10Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2228,7 +1847,7 @@
       "id": "FHKKass3boo",
       "url": "https://www.youtube.com/watch?v=FHKKass3boo",
       "publishedAt": "2026-01-03T02:46:22Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2238,7 +1857,7 @@
       "id": "3jsQf0FF130",
       "url": "https://www.youtube.com/watch?v=3jsQf0FF130",
       "publishedAt": "2026-01-03T02:18:33Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2248,7 +1867,7 @@
       "id": "yw_ovzVzwpY",
       "url": "https://www.youtube.com/watch?v=yw_ovzVzwpY",
       "publishedAt": "2026-01-02T14:55:30Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2258,7 +1877,7 @@
       "id": "CfQyaCKi7BY",
       "url": "https://www.youtube.com/watch?v=CfQyaCKi7BY",
       "publishedAt": "2026-01-02T14:04:52Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2268,7 +1887,7 @@
       "id": "7Bpool4aLyo",
       "url": "https://www.youtube.com/watch?v=7Bpool4aLyo",
       "publishedAt": "2026-01-02T13:46:19Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2278,7 +1897,7 @@
       "id": "e2Otm3i08kI",
       "url": "https://www.youtube.com/watch?v=e2Otm3i08kI",
       "publishedAt": "2026-01-02T02:08:17Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2288,7 +1907,7 @@
       "id": "OVcshVuBBqw",
       "url": "https://www.youtube.com/watch?v=OVcshVuBBqw",
       "publishedAt": "2026-01-01T14:55:37Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2298,7 +1917,7 @@
       "id": "i6XNZaaF-sw",
       "url": "https://www.youtube.com/watch?v=i6XNZaaF-sw",
       "publishedAt": "2025-12-31T14:05:18Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2308,7 +1927,7 @@
       "id": "4Ri9QCxduFY",
       "url": "https://www.youtube.com/watch?v=4Ri9QCxduFY",
       "publishedAt": "2025-12-30T14:05:11Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2318,7 +1937,7 @@
       "id": "k2K3QNIhP2g",
       "url": "https://www.youtube.com/watch?v=k2K3QNIhP2g",
       "publishedAt": "2025-12-29T14:09:06Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2328,7 +1947,7 @@
       "id": "3g6BsH2cx64",
       "url": "https://www.youtube.com/watch?v=3g6BsH2cx64",
       "publishedAt": "2025-12-29T02:39:15Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2338,7 +1957,7 @@
       "id": "DQj3vFxOWvY",
       "url": "https://www.youtube.com/watch?v=DQj3vFxOWvY",
       "publishedAt": "2025-12-28T02:48:45Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2348,7 +1967,7 @@
       "id": "BPvgloi6eYY",
       "url": "https://www.youtube.com/watch?v=BPvgloi6eYY",
       "publishedAt": "2025-12-28T02:11:09Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2358,7 +1977,7 @@
       "id": "QK-LxH2QkM0",
       "url": "https://www.youtube.com/watch?v=QK-LxH2QkM0",
       "publishedAt": "2025-12-27T02:41:31Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2368,7 +1987,7 @@
       "id": "OoPU-mpPiXE",
       "url": "https://www.youtube.com/watch?v=OoPU-mpPiXE",
       "publishedAt": "2025-12-27T02:12:29Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2378,7 +1997,7 @@
       "id": "SplgbVF_464",
       "url": "https://www.youtube.com/watch?v=SplgbVF_464",
       "publishedAt": "2025-12-26T02:41:23Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2388,7 +2007,7 @@
       "id": "t3SH_hfHvR0",
       "url": "https://www.youtube.com/watch?v=t3SH_hfHvR0",
       "publishedAt": "2025-12-25T14:50:46Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2398,7 +2017,7 @@
       "id": "xZ3No6rP2t4",
       "url": "https://www.youtube.com/watch?v=xZ3No6rP2t4",
       "publishedAt": "2025-12-25T14:08:12Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2408,7 +2027,7 @@
       "id": "mNlZLOSDU-4",
       "url": "https://www.youtube.com/watch?v=mNlZLOSDU-4",
       "publishedAt": "2025-12-25T02:14:29Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2418,7 +2037,7 @@
       "id": "bqsQ0XEld8w",
       "url": "https://www.youtube.com/watch?v=bqsQ0XEld8w",
       "publishedAt": "2025-12-23T14:05:32Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2428,7 +2047,7 @@
       "id": "cNOJM4hrQ3c",
       "url": "https://www.youtube.com/watch?v=cNOJM4hrQ3c",
       "publishedAt": "2025-12-22T14:01:02Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2438,7 +2057,7 @@
       "id": "u4PxbBCbeYU",
       "url": "https://www.youtube.com/watch?v=u4PxbBCbeYU",
       "publishedAt": "2025-12-22T02:38:09Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2448,7 +2067,7 @@
       "id": "1w9AYeVHGcY",
       "url": "https://www.youtube.com/watch?v=1w9AYeVHGcY",
       "publishedAt": "2025-12-21T14:01:42Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2458,7 +2077,7 @@
       "id": "YHcyONVh6_U",
       "url": "https://www.youtube.com/watch?v=YHcyONVh6_U",
       "publishedAt": "2025-12-21T02:32:28Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2468,7 +2087,7 @@
       "id": "-vPg7o81Sks",
       "url": "https://www.youtube.com/watch?v=-vPg7o81Sks",
       "publishedAt": "2025-12-20T16:44:04Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2478,7 +2097,7 @@
       "id": "oDiiWGl9ows",
       "url": "https://www.youtube.com/watch?v=oDiiWGl9ows",
       "publishedAt": "2025-12-20T14:00:55Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2498,7 +2117,7 @@
       "id": "Lry0TkfadiE",
       "url": "https://www.youtube.com/watch?v=Lry0TkfadiE",
       "publishedAt": "2025-12-20T02:07:26Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2508,7 +2127,7 @@
       "id": "VZDjytjcl-Q",
       "url": "https://www.youtube.com/watch?v=VZDjytjcl-Q",
       "publishedAt": "2025-12-19T14:47:42Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2518,7 +2137,7 @@
       "id": "NmDVyEi-_jk",
       "url": "https://www.youtube.com/watch?v=NmDVyEi-_jk",
       "publishedAt": "2025-12-18T14:51:04Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2528,7 +2147,7 @@
       "id": "tguKN1ZsDiI",
       "url": "https://www.youtube.com/watch?v=tguKN1ZsDiI",
       "publishedAt": "2025-12-18T14:06:25Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2538,7 +2157,7 @@
       "id": "-EZ4fzFEKic",
       "url": "https://www.youtube.com/watch?v=-EZ4fzFEKic",
       "publishedAt": "2025-12-18T02:16:04Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2548,7 +2167,7 @@
       "id": "MNR21HR0BLA",
       "url": "https://www.youtube.com/watch?v=MNR21HR0BLA",
       "publishedAt": "2025-12-16T13:58:38Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2558,7 +2177,7 @@
       "id": "-8wfNdVGZtQ",
       "url": "https://www.youtube.com/watch?v=-8wfNdVGZtQ",
       "publishedAt": "2025-12-15T14:04:38Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2568,7 +2187,7 @@
       "id": "lq50Hq6TX3Y",
       "url": "https://www.youtube.com/watch?v=lq50Hq6TX3Y",
       "publishedAt": "2025-12-14T14:44:56Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2578,7 +2197,7 @@
       "id": "UewLj8UjCi8",
       "url": "https://www.youtube.com/watch?v=UewLj8UjCi8",
       "publishedAt": "2025-12-14T13:56:53Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2588,7 +2207,7 @@
       "id": "taJR-iD2sGs",
       "url": "https://www.youtube.com/watch?v=taJR-iD2sGs",
       "publishedAt": "2025-12-13T14:54:42Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2598,7 +2217,7 @@
       "id": "vq8cRk4B8Js",
       "url": "https://www.youtube.com/watch?v=vq8cRk4B8Js",
       "publishedAt": "2025-12-13T13:56:39Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2608,7 +2227,7 @@
       "id": "dOQIqdpM5eY",
       "url": "https://www.youtube.com/watch?v=dOQIqdpM5eY",
       "publishedAt": "2025-12-12T13:57:27Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2618,7 +2237,7 @@
       "id": "R4tBv_zt0Pg",
       "url": "https://www.youtube.com/watch?v=R4tBv_zt0Pg",
       "publishedAt": "2025-12-12T02:48:42Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2628,7 +2247,7 @@
       "id": "GJ0pJ6l7SIM",
       "url": "https://www.youtube.com/watch?v=GJ0pJ6l7SIM",
       "publishedAt": "2025-12-11T14:40:55Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2638,7 +2257,7 @@
       "id": "r0iBZcvh_-0",
       "url": "https://www.youtube.com/watch?v=r0iBZcvh_-0",
       "publishedAt": "2025-12-11T14:03:28Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2648,7 +2267,7 @@
       "id": "50Sn17JXl1k",
       "url": "https://www.youtube.com/watch?v=50Sn17JXl1k",
       "publishedAt": "2025-12-07T02:50:55Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2658,7 +2277,7 @@
       "id": "kzgFjwlluE8",
       "url": "https://www.youtube.com/watch?v=kzgFjwlluE8",
       "publishedAt": "2025-12-07T02:39:06Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2668,7 +2287,7 @@
       "id": "dB2tHQM3B3g",
       "url": "https://www.youtube.com/watch?v=dB2tHQM3B3g",
       "publishedAt": "2025-12-07T02:32:51Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2678,7 +2297,7 @@
       "id": "H1Aa6C8DRW0",
       "url": "https://www.youtube.com/watch?v=H1Aa6C8DRW0",
       "publishedAt": "2025-12-06T14:41:28Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2688,7 +2307,7 @@
       "id": "g_0UdQbojAU",
       "url": "https://www.youtube.com/watch?v=g_0UdQbojAU",
       "publishedAt": "2025-12-06T13:59:11Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2698,7 +2317,7 @@
       "id": "jIBs_Q6T9hQ",
       "url": "https://www.youtube.com/watch?v=jIBs_Q6T9hQ",
       "publishedAt": "2025-12-05T14:36:29Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2708,7 +2327,7 @@
       "id": "yEnT2tL1zYg",
       "url": "https://www.youtube.com/watch?v=yEnT2tL1zYg",
       "publishedAt": "2025-12-05T13:57:42Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2718,7 +2337,7 @@
       "id": "L9ysUV5NR_Q",
       "url": "https://www.youtube.com/watch?v=L9ysUV5NR_Q",
       "publishedAt": "2025-12-04T13:55:56Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2728,7 +2347,7 @@
       "id": "IQ8M3VFXbtk",
       "url": "https://www.youtube.com/watch?v=IQ8M3VFXbtk",
       "publishedAt": "2025-12-04T02:22:11Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2738,7 +2357,7 @@
       "id": "KxqddNAf8V4",
       "url": "https://www.youtube.com/watch?v=KxqddNAf8V4",
       "publishedAt": "2025-12-03T13:56:00Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2748,7 +2367,7 @@
       "id": "-Mox6y5atRY",
       "url": "https://www.youtube.com/watch?v=-Mox6y5atRY",
       "publishedAt": "2025-12-01T13:52:36Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2758,7 +2377,7 @@
       "id": "IJl9tWkhKDo",
       "url": "https://www.youtube.com/watch?v=IJl9tWkhKDo",
       "publishedAt": "2025-12-01T02:38:37Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2768,7 +2387,7 @@
       "id": "5zRoyKWvLeE",
       "url": "https://www.youtube.com/watch?v=5zRoyKWvLeE",
       "publishedAt": "2025-11-30T13:38:50Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2778,7 +2397,7 @@
       "id": "FIBczLXTbK4",
       "url": "https://www.youtube.com/watch?v=FIBczLXTbK4",
       "publishedAt": "2025-11-30T02:34:30Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2788,7 +2407,7 @@
       "id": "jDwZeNDmp30",
       "url": "https://www.youtube.com/watch?v=jDwZeNDmp30",
       "publishedAt": "2025-11-29T13:30:56Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2808,7 +2427,7 @@
       "id": "JRB33frdOK0",
       "url": "https://www.youtube.com/watch?v=JRB33frdOK0",
       "publishedAt": "2025-11-29T02:34:23Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2818,7 +2437,7 @@
       "id": "Ac6BxNSQP2o",
       "url": "https://www.youtube.com/watch?v=Ac6BxNSQP2o",
       "publishedAt": "2025-11-29T02:17:52Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2828,7 +2447,7 @@
       "id": "QR6SvTshrOg",
       "url": "https://www.youtube.com/watch?v=QR6SvTshrOg",
       "publishedAt": "2025-11-28T14:37:16Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2838,7 +2457,7 @@
       "id": "nGZvD5NGlyM",
       "url": "https://www.youtube.com/watch?v=nGZvD5NGlyM",
       "publishedAt": "2025-11-28T13:27:00Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2848,7 +2467,7 @@
       "id": "J_Ssytp1oVs",
       "url": "https://www.youtube.com/watch?v=J_Ssytp1oVs",
       "publishedAt": "2025-11-27T13:26:55Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2858,7 +2477,7 @@
       "id": "1SyIKbs2eI4",
       "url": "https://www.youtube.com/watch?v=1SyIKbs2eI4",
       "publishedAt": "2025-11-27T02:42:22Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2868,7 +2487,7 @@
       "id": "djwF5gQb5GQ",
       "url": "https://www.youtube.com/watch?v=djwF5gQb5GQ",
       "publishedAt": "2025-11-26T13:25:33Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2878,7 +2497,7 @@
       "id": "R_Sfk_IQDD8",
       "url": "https://www.youtube.com/watch?v=R_Sfk_IQDD8",
       "publishedAt": "2025-11-25T13:20:27Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2888,7 +2507,7 @@
       "id": "4hVr5K7OMY8",
       "url": "https://www.youtube.com/watch?v=4hVr5K7OMY8",
       "publishedAt": "2025-11-24T13:28:00Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2898,7 +2517,7 @@
       "id": "TZSdAPTeWx0",
       "url": "https://www.youtube.com/watch?v=TZSdAPTeWx0",
       "publishedAt": "2025-11-24T02:37:20Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2908,7 +2527,7 @@
       "id": "4n9XXRwx9zQ",
       "url": "https://www.youtube.com/watch?v=4n9XXRwx9zQ",
       "publishedAt": "2025-11-23T13:31:14Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2918,7 +2537,7 @@
       "id": "JgBOM901Czo",
       "url": "https://www.youtube.com/watch?v=JgBOM901Czo",
       "publishedAt": "2025-11-23T02:35:15Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2928,7 +2547,7 @@
       "id": "6vLF4fF2Vbg",
       "url": "https://www.youtube.com/watch?v=6vLF4fF2Vbg",
       "publishedAt": "2025-11-22T13:31:44Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2948,7 +2567,7 @@
       "id": "38c1p5JTsr8",
       "url": "https://www.youtube.com/watch?v=38c1p5JTsr8",
       "publishedAt": "2025-11-22T03:06:34Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2958,7 +2577,7 @@
       "id": "ERoQuVVSkaE",
       "url": "https://www.youtube.com/watch?v=ERoQuVVSkaE",
       "publishedAt": "2025-11-21T13:39:49Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2968,7 +2587,7 @@
       "id": "4yZKK-99v8E",
       "url": "https://www.youtube.com/watch?v=4yZKK-99v8E",
       "publishedAt": "2025-11-21T03:02:57Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2978,7 +2597,7 @@
       "id": "WdwU5D8wPD0",
       "url": "https://www.youtube.com/watch?v=WdwU5D8wPD0",
       "publishedAt": "2025-11-20T13:33:30Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2988,7 +2607,7 @@
       "id": "eSjky7KoziM",
       "url": "https://www.youtube.com/watch?v=eSjky7KoziM",
       "publishedAt": "2025-11-20T03:06:25Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -2998,7 +2617,7 @@
       "id": "nSxZF7ziuGc",
       "url": "https://www.youtube.com/watch?v=nSxZF7ziuGc",
       "publishedAt": "2025-11-19T13:27:03Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3008,7 +2627,7 @@
       "id": "Nw5zrdTl6w0",
       "url": "https://www.youtube.com/watch?v=Nw5zrdTl6w0",
       "publishedAt": "2025-11-17T13:24:59Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3018,7 +2637,7 @@
       "id": "VKOwPOBZwTY",
       "url": "https://www.youtube.com/watch?v=VKOwPOBZwTY",
       "publishedAt": "2025-11-17T03:01:24Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3028,7 +2647,7 @@
       "id": "wCniNeftZEA",
       "url": "https://www.youtube.com/watch?v=wCniNeftZEA",
       "publishedAt": "2025-11-16T13:27:28Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3038,7 +2657,7 @@
       "id": "uDTNznylscA",
       "url": "https://www.youtube.com/watch?v=uDTNznylscA",
       "publishedAt": "2025-11-16T03:00:43Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3048,7 +2667,7 @@
       "id": "6BqxCTyM4wg",
       "url": "https://www.youtube.com/watch?v=6BqxCTyM4wg",
       "publishedAt": "2025-11-15T15:17:05Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3058,7 +2677,7 @@
       "id": "-r2FON4GJRg",
       "url": "https://www.youtube.com/watch?v=-r2FON4GJRg",
       "publishedAt": "2025-11-15T13:24:37Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3068,7 +2687,7 @@
       "id": "gMsscwyQ7-U",
       "url": "https://www.youtube.com/watch?v=gMsscwyQ7-U",
       "publishedAt": "2025-11-14T20:47:21Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "afternoon",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3078,7 +2697,7 @@
       "id": "lCbTy8wYpP4",
       "url": "https://www.youtube.com/watch?v=lCbTy8wYpP4",
       "publishedAt": "2025-11-14T13:24:31Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3088,7 +2707,7 @@
       "id": "bgqtHFHd8t0",
       "url": "https://www.youtube.com/watch?v=bgqtHFHd8t0",
       "publishedAt": "2025-11-14T03:07:19Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3098,7 +2717,7 @@
       "id": "j9yjdOruAbc",
       "url": "https://www.youtube.com/watch?v=j9yjdOruAbc",
       "publishedAt": "2025-11-13T13:29:27Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3108,7 +2727,7 @@
       "id": "WhMXSdFH0hY",
       "url": "https://www.youtube.com/watch?v=WhMXSdFH0hY",
       "publishedAt": "2025-11-13T03:15:43Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3118,7 +2737,7 @@
       "id": "SXXwDRVxwD8",
       "url": "https://www.youtube.com/watch?v=SXXwDRVxwD8",
       "publishedAt": "2025-11-12T13:26:06Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3128,7 +2747,7 @@
       "id": "W-r02afVpW8",
       "url": "https://www.youtube.com/watch?v=W-r02afVpW8",
       "publishedAt": "2025-11-11T13:24:49Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3138,7 +2757,7 @@
       "id": "BSfmVkPHMqI",
       "url": "https://www.youtube.com/watch?v=BSfmVkPHMqI",
       "publishedAt": "2025-11-10T13:28:30Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3148,7 +2767,7 @@
       "id": "Owvci6oO9WU",
       "url": "https://www.youtube.com/watch?v=Owvci6oO9WU",
       "publishedAt": "2025-11-10T03:03:54Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3158,7 +2777,7 @@
       "id": "XhyR8Is_xPc",
       "url": "https://www.youtube.com/watch?v=XhyR8Is_xPc",
       "publishedAt": "2025-11-09T15:21:20Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3168,7 +2787,7 @@
       "id": "dnZjSmXVxa8",
       "url": "https://www.youtube.com/watch?v=dnZjSmXVxa8",
       "publishedAt": "2025-11-09T13:26:44Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3178,7 +2797,7 @@
       "id": "yhsgoCbPNmM",
       "url": "https://www.youtube.com/watch?v=yhsgoCbPNmM",
       "publishedAt": "2025-11-08T15:13:46Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3188,7 +2807,7 @@
       "id": "kF-4AZptHAU",
       "url": "https://www.youtube.com/watch?v=kF-4AZptHAU",
       "publishedAt": "2025-11-08T13:34:45Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3208,7 +2827,7 @@
       "id": "ReKnoO8fyQs",
       "url": "https://www.youtube.com/watch?v=ReKnoO8fyQs",
       "publishedAt": "2025-11-07T15:12:54Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3218,7 +2837,7 @@
       "id": "XuQJi7QC7v4",
       "url": "https://www.youtube.com/watch?v=XuQJi7QC7v4",
       "publishedAt": "2025-11-07T13:25:23Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3228,7 +2847,7 @@
       "id": "CYUVxOpp5cU",
       "url": "https://www.youtube.com/watch?v=CYUVxOpp5cU",
       "publishedAt": "2025-11-06T15:12:35Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3238,7 +2857,7 @@
       "id": "ob1jheUUZck",
       "url": "https://www.youtube.com/watch?v=ob1jheUUZck",
       "publishedAt": "2025-11-06T13:31:00Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3248,7 +2867,7 @@
       "id": "jehzq2l34DQ",
       "url": "https://www.youtube.com/watch?v=jehzq2l34DQ",
       "publishedAt": "2025-11-05T20:32:32Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "afternoon",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3258,7 +2877,7 @@
       "id": "D2b0SDo66a0",
       "url": "https://www.youtube.com/watch?v=D2b0SDo66a0",
       "publishedAt": "2025-11-04T13:27:25Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3268,7 +2887,7 @@
       "id": "HWBSiTH0THo",
       "url": "https://www.youtube.com/watch?v=HWBSiTH0THo",
       "publishedAt": "2025-11-03T15:13:08Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3278,7 +2897,7 @@
       "id": "imioM-zQECs",
       "url": "https://www.youtube.com/watch?v=imioM-zQECs",
       "publishedAt": "2025-11-03T13:24:04Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3288,7 +2907,7 @@
       "id": "V5txZPZTzfY",
       "url": "https://www.youtube.com/watch?v=V5txZPZTzfY",
       "publishedAt": "2025-11-02T13:24:27Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3298,7 +2917,7 @@
       "id": "nUnJpCxdzYg",
       "url": "https://www.youtube.com/watch?v=nUnJpCxdzYg",
       "publishedAt": "2025-11-02T03:23:24Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3308,7 +2927,7 @@
       "id": "guVP7xIzSYk",
       "url": "https://www.youtube.com/watch?v=guVP7xIzSYk",
       "publishedAt": "2025-11-01T15:17:05Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3318,7 +2937,7 @@
       "id": "ov90B9vw-lo",
       "url": "https://www.youtube.com/watch?v=ov90B9vw-lo",
       "publishedAt": "2025-11-01T13:33:48Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3328,7 +2947,7 @@
       "id": "J20w3vTrskE",
       "url": "https://www.youtube.com/watch?v=J20w3vTrskE",
       "publishedAt": "2025-10-31T20:46:48Z",
-      "timeOfDay": "evening",
+      "timeOfDay": "afternoon",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3338,7 +2957,7 @@
       "id": "m3sNpeQHSQE",
       "url": "https://www.youtube.com/watch?v=m3sNpeQHSQE",
       "publishedAt": "2025-10-31T13:16:38Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3348,7 +2967,7 @@
       "id": "jGq5b-KHsmY",
       "url": "https://www.youtube.com/watch?v=jGq5b-KHsmY",
       "publishedAt": "2025-10-31T03:06:59Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3358,7 +2977,7 @@
       "id": "BmZitaftFSQ",
       "url": "https://www.youtube.com/watch?v=BmZitaftFSQ",
       "publishedAt": "2025-10-30T15:09:30Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3368,7 +2987,7 @@
       "id": "ezj7q3_57ac",
       "url": "https://www.youtube.com/watch?v=ezj7q3_57ac",
       "publishedAt": "2025-10-30T13:11:42Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3378,7 +2997,7 @@
       "id": "DBk5yyfvVWc",
       "url": "https://www.youtube.com/watch?v=DBk5yyfvVWc",
       "publishedAt": "2025-10-27T13:12:27Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3388,7 +3007,7 @@
       "id": "XZyRG9JCHGI",
       "url": "https://www.youtube.com/watch?v=XZyRG9JCHGI",
       "publishedAt": "2025-10-27T03:13:56Z",
-      "timeOfDay": "morning",
+      "timeOfDay": "evening",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3398,7 +3017,7 @@
       "id": "MIImrQwlXGo",
       "url": "https://www.youtube.com/watch?v=MIImrQwlXGo",
       "publishedAt": "2025-10-26T15:26:16Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
@@ -3408,12 +3027,11 @@
       "id": "-NM_38puhSw",
       "url": "https://www.youtube.com/watch?v=-NM_38puhSw",
       "publishedAt": "2025-10-26T13:14:05Z",
-      "timeOfDay": "afternoon",
+      "timeOfDay": "morning",
       "title": "Muslim Community Center Of Tucson",
       "description": "",
       "aiTitle": null,
       "topics": []
     }
-  ],
-  "enrichedAt": "2026-04-26T06:10:29.707Z"
+  ]
 }
