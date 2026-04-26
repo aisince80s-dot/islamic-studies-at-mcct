@@ -12,14 +12,18 @@ async function loadData(){
 
 function timeOfDayFromItem(v){
   // Prefer server-provided classification (already AZ + livestream-aware)
-  if (v && typeof v.timeOfDay === 'string' && v.timeOfDay) return v.timeOfDay
+  const t = (v && typeof v.timeOfDay === 'string') ? v.timeOfDay : ''
+  if (t === 'morning') return 'fajr'
+  if (t === 'afternoon') return 'jumaa'
+  if (t === 'evening') return 'isha'
+  if (t === 'fajr' || t === 'jumaa' || t === 'isha') return t
 
   // Fallback (should be rare): compute from timeBasis/publishedAt in local browser time
   const d = v?.timeBasis || v?.publishedAt
   const h = dayjs(d).hour()
-  if (h < 12) return 'morning'
-  if (h < 17) return 'afternoon'
-  return 'evening'
+  if (h < 12) return 'fajr'
+  if (h < 17) return 'jumaa'
+  return 'isha'
 }
 
 function unique(arr){
@@ -53,9 +57,9 @@ export async function renderApp(root){
             Time
             <select id="timeOfDay">
               <option value="all">All</option>
-              <option value="morning">Fajr</option>
-              <option value="afternoon">Jumaa</option>
-              <option value="evening">Isha</option>
+              <option value="fajr">Fajr</option>
+              <option value="jumaa">Jumaa</option>
+              <option value="isha">Isha</option>
             </select>
           </label>
 
