@@ -73,7 +73,7 @@ async function getVideoDetails(ids){
   const all = []
   for (const chunk of chunks) {
     const url = new URL('https://www.googleapis.com/youtube/v3/videos')
-    url.searchParams.set('part','snippet,contentDetails')
+    url.searchParams.set('part','snippet,contentDetails,liveStreamingDetails')
     url.searchParams.set('id', chunk.join(','))
     url.searchParams.set('key', API_KEY)
     const j = await yt(url)
@@ -83,8 +83,8 @@ async function getVideoDetails(ids){
   return all
 }
 
-function timeOfDayBucketArizona(publishedAt){
-  const d = new Date(publishedAt)
+function timeOfDayBucketArizona(isoTime){
+  const d = new Date(isoTime)
   // Arizona is always UTC-7 (no DST)
   const h = (d.getUTCHours() + 17) % 24
   if (h < 12) return 'morning'
@@ -136,13 +136,22 @@ async function main(){
     .map(v => {
       const sn = v.snippet || {}
       const publishedAt = sn.publishedAt
+      const live = v.liveStreamingDetails || {}
+      const actualStartTime = live.actualStartTime || null
+      const scheduledStartTime = live.scheduledStartTime || null
+
+      const timeBasis = actualStartTime || scheduledStartTime || publishedAt
+
       const url = `https://www.youtube.com/watch?v=${v.id}`
       const textForTopics = `${sn.title || ''}\n${sn.description || ''}`
       return {
         id: v.id,
         url,
         publishedAt,
-        timeOfDay: timeOfDayBucketArizona(publishedAt),
+        actualStartTime,
+        scheduledStartTime,
+        timeBasis,
+        timeOfDay: timeOfDayBucketArizona(timeBasis),
         title: sn.title || '',
         description: sn.description || '',
         // aiTitle/topics will be overwritten by the transcript+Claude enrichment step.
