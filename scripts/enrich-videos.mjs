@@ -81,7 +81,7 @@ async function getTranscriptText(videoId){
     '--write-auto-subs',
     '--write-subs',
     '--sub-format', 'vtt',
-    '--sub-lang', 'en.*,en,.*',
+    '--sub-lang', 'en,en-orig',
     '-o', path.join(tmp, '%(id)s.%(ext)s'),
     url
   ]
@@ -99,7 +99,10 @@ async function getTranscriptText(videoId){
   }
 
   // Prefer English if present
-  const preferred = vttFiles.find(f => /\.en(\.|-)/.test(f)) || vttFiles[0]
+  const preferred =
+    vttFiles.find(f => f.includes('.en-orig.')) ||
+    vttFiles.find(f => f.includes('.en.')) ||
+    vttFiles[0]
   const vtt = await fs.readFile(path.join(tmp, preferred), 'utf8')
   const text = vttToText(vtt)
   if (!text) throw new Error('Transcript empty (yt-dlp)')
