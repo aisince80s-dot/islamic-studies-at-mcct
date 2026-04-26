@@ -83,8 +83,10 @@ async function getVideoDetails(ids){
   return all
 }
 
-function timeOfDayBucket(publishedAt){
-  const h = new Date(publishedAt).getUTCHours()
+function timeOfDayBucketArizona(publishedAt){
+  const d = new Date(publishedAt)
+  // Arizona is always UTC-7 (no DST)
+  const h = (d.getUTCHours() + 17) % 24
   if (h < 12) return 'morning'
   if (h < 17) return 'afternoon'
   return 'evening'
@@ -140,7 +142,7 @@ async function main(){
         id: v.id,
         url,
         publishedAt,
-        timeOfDay: timeOfDayBucket(publishedAt),
+        timeOfDay: timeOfDayBucketArizona(publishedAt),
         title: sn.title || '',
         description: sn.description || '',
         // aiTitle/topics will be overwritten by the transcript+Claude enrichment step.
