@@ -50,12 +50,12 @@ export async function renderApp(root){
       <div class="panel" style="margin-top:14px">
         <div class="filters">
           <label>
-            Time of day
+            Time
             <select id="timeOfDay">
               <option value="all">All</option>
-              <option value="morning">Morning</option>
-              <option value="afternoon">Afternoon</option>
-              <option value="evening">Evening</option>
+              <option value="morning">Fajr</option>
+              <option value="afternoon">Jumaa</option>
+              <option value="evening">Isha</option>
             </select>
           </label>
 
