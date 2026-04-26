@@ -12,7 +12,8 @@ sudo bash -lc '
   cd "'"$(pwd)"'"
 
   node scripts/fetch-youtube.mjs
-  node scripts/enrich-videos-batch.mjs
+  # Micro-batch (cost-effective without Anthropic Batch API)
+  MAX_VIDEOS=${MAX_VIDEOS:-200} CONCURRENCY=${CONCURRENCY:-6} node scripts/enrich-videos-microbatch.mjs
 '
 
 # Push updated JSON (site deployment is handled by GitHub Actions)
