@@ -8,3 +8,13 @@ node_modules
 .openclaw/github_deploy_key.pub
 .openclaw/ssh_config_github
 .openclaw/workspace-state.json
+# OpenClaw local files
+AGENTS.md
+SOUL.md
+USER.md
+TOOLS.md
+IDENTITY.md
+HEARTBEAT.md
+cron.log
+memory/
+.openclaw/
