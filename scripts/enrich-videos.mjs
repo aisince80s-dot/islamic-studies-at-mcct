@@ -82,7 +82,7 @@ async function getTranscriptText(videoId){
     '--write-subs',
     '--sub-format', 'vtt',
     '--sub-lang', 'en,en-orig',
-    '-o', path.join(tmp, '%(id)s.%(ext)s'),
+    '-o', path.join(tmp, '%(id)s.%(language)s.%(ext)s'),
     url
   ]
 
