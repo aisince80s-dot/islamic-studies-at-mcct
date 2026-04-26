@@ -27,6 +27,24 @@ const topicsAllowed = [
   'Other'
 ]
 
+function classifyTopicsFallback(text){
+  const t = (text || '').toLowerCase()
+  const topics = new Set()
+
+  if (/(qur\b|quran|surah|sura|tafsir)/.test(t)) { topics.add('Quran'); topics.add('Tafsir') }
+  if (/(hadith|ḥadīth|حديث)/.test(t)) topics.add('Hadith')
+  if (/(riyadh|riyaad|saliheen|salihin|صالحين)/.test(t)) { topics.add('Hadith'); topics.add('Riyadh as-Salihin') }
+  if (/(al\s*wajeez|al\s*wajiz|wajeez|wajiz)/.test(t)) { topics.add('Fiqh'); topics.add('Al-Wajeez') }
+  if (/(fiqh|فقه)/.test(t)) topics.add('Fiqh')
+  if (/(aqeed|aqid|\bcreed\b|عقيدة)/.test(t)) topics.add('Aqeedah')
+  if (/(seerah|sira|سيرة|prophet)/.test(t)) topics.add('Seerah')
+
+  // keep only allowed
+  const cleaned = [...topics].filter(x => topicsAllowed.includes(x))
+  if (cleaned.length === 0) return ['Other']
+  return cleaned.slice(0, 3)
+}
+
 const client = new Anthropic({ apiKey: ANTHROPIC_API_KEY })
 
 function sleep(ms){ return new Promise(r => setTimeout(r, ms)) }
@@ -127,9 +145,11 @@ async function main(){
       await sleep(Number(process.env.SLEEP_MS || '800'))
     } catch (err) {
       v.enrichError = String(err?.message || err)
-      // Fallback: if transcript is unavailable, keep a cleaned YouTube title and basic topic guess.
+      // Fallback: if transcript is unavailable, keep YouTube title and tag from title/description keywords.
       if (!v.aiTitle) v.aiTitle = v.title || 'Untitled'
-      if (!Array.isArray(v.topics) || v.topics.length === 0) v.topics = ['Other']
+      if (!Array.isArray(v.topics) || v.topics.length === 0) {
+        v.topics = classifyTopicsFallback(`${v.title || ''}\n${v.description || ''}`)
+      }
       v.enrichedAt = new Date().toISOString()
       console.warn(`Failed ${id}: ${v.enrichError}`)
       await sleep(400)
