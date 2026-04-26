@@ -1,7 +1,11 @@
 import fs from 'node:fs/promises'
 import path from 'node:path'
-import { YoutubeTranscript } from 'youtube-transcript'
+import { execFile } from 'node:child_process'
+import { promisify } from 'node:util'
+import os from 'node:os'
 import Anthropic from '@anthropic-ai/sdk'
+
+const execFileAsync = promisify(execFile)
 
 const CHANNEL_ID = process.env.YT_CHANNEL_ID || 'UCt-XeQTVRSETC9DceeC6nMw'
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY
@@ -49,11 +53,57 @@ const client = new Anthropic({ apiKey: ANTHROPIC_API_KEY })
 
 function sleep(ms){ return new Promise(r => setTimeout(r, ms)) }
 
+function vttToText(vtt){
+  // Minimal VTT-to-text: drop timestamps/cues, keep text lines.
+  const lines = vtt.split(/\r?\n/)
+  const out = []
+  for (const line of lines) {
+    const s = line.trim()
+    if (!s) continue
+    if (s === 'WEBVTT') continue
+    if (/^\d{2}:\d{2}:\d{2}\.\d{3}\s+-->\s+\d{2}:\d{2}:\d{2}\.\d{3}/.test(s)) continue
+    if (/^NOTE\b/.test(s)) continue
+    if (/^STYLE\b/.test(s)) continue
+    if (/^REGION\b/.test(s)) continue
+    // remove tags like <c> ... </c>
+    out.push(s.replace(/<[^>]+>/g, ''))
+  }
+  return out.join(' ').replace(/\s+/g, ' ').trim()
+}
+
 async function getTranscriptText(videoId){
-  // youtube-transcript returns array of {text, duration, offset}
-  const parts = await YoutubeTranscript.fetchTranscript(videoId)
-  const text = parts.map(p => p.text).join(' ')
-  return text.replace(/\s+/g,' ').trim()
+  const tmp = await fs.mkdtemp(path.join(os.tmpdir(), 'yt-sub-'))
+  const url = `https://www.youtube.com/watch?v=${videoId}`
+
+  // Try English first, then any auto subs.
+  const args = [
+    '--skip-download',
+    '--write-auto-subs',
+    '--write-subs',
+    '--sub-format', 'vtt',
+    '--sub-lang', 'en.*,en,.*',
+    '-o', path.join(tmp, '%(id)s.%(ext)s'),
+    url
+  ]
+
+  try {
+    await execFileAsync('yt-dlp', args, { timeout: 120000 })
+  } catch (e) {
+    // yt-dlp sometimes returns non-zero even when it writes files; continue to scan dir
+  }
+
+  const files = await fs.readdir(tmp)
+  const vttFiles = files.filter(f => f.startsWith(videoId) && f.endsWith('.vtt'))
+  if (vttFiles.length === 0) {
+    throw new Error('Transcript unavailable (yt-dlp)')
+  }
+
+  // Prefer English if present
+  const preferred = vttFiles.find(f => /\.en(\.|-)/.test(f)) || vttFiles[0]
+  const vtt = await fs.readFile(path.join(tmp, preferred), 'utf8')
+  const text = vttToText(vtt)
+  if (!text) throw new Error('Transcript empty (yt-dlp)')
+  return text
 }
 
 function truncate(s, n){
