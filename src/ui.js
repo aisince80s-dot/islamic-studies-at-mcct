@@ -110,7 +110,7 @@ export async function renderApp(root){
   }
 
   function passesFilters(v){
-    const published = dayjs(v.publishedAt)
+    const basis = dayjs(v.timeBasis || v.publishedAt)
 
     if (state.timeOfDay !== 'all') {
       if (timeOfDayFromItem(v) !== state.timeOfDay) return false
@@ -122,11 +122,11 @@ export async function renderApp(root){
     }
 
     if (state.from) {
-      if (published.isBefore(dayjs(state.from), 'day')) return false
+      if (basis.isBefore(dayjs(state.from), 'day')) return false
     }
 
     if (state.to) {
-      if (published.isAfter(dayjs(state.to), 'day')) return false
+      if (basis.isAfter(dayjs(state.to), 'day')) return false
     }
 
     return true
@@ -139,7 +139,7 @@ export async function renderApp(root){
       .filter(passesFilters)
 
     els.results.innerHTML = items.map(v => {
-      const published = dayjs(v.publishedAt)
+      const basis = dayjs(v.timeBasis || v.publishedAt)
       const tod = timeOfDayFromItem(v)
       const topics = (v.topics || []).map(t => `<span class="chip">${t}</span>`).join('')
       const title = v.aiTitle || v.title
@@ -148,8 +148,8 @@ export async function renderApp(root){
         <div class="card">
           <h3>${escapeHtml(title)}</h3>
           <div class="meta">
-            <span class="chip">${published.format('YYYY-MM-DD')}</span>
-            <span class="chip">${published.format('h:mm A')}</span>
+            <span class="chip">${basis.format('YYYY-MM-DD')}</span>
+            <span class="chip">${basis.format('h:mm A')}</span>
             <span class="chip">${tod}</span>
           </div>
           <div style="display:flex; flex-wrap:wrap; gap:6px">${topics}</div>
