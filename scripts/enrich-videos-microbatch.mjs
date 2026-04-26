@@ -19,9 +19,13 @@ const inPath = process.env.IN_PATH || path.join(process.cwd(), 'public', 'videos
 const outPath = process.env.OUT_PATH || inPath
 
 const maxVideos = Number(process.env.MAX_VIDEOS || '200')
-const concurrency = Number(process.env.CONCURRENCY || '6')
-const sleepMs = Number(process.env.SLEEP_MS || '200')
-const maxTranscriptChars = Number(process.env.MAX_TRANSCRIPT_CHARS || '12000')
+// Defaults tuned for Anthropic TPM limits (safer out of the box)
+const concurrency = Number(process.env.CONCURRENCY || '1')
+const sleepMs = Number(process.env.SLEEP_MS || '1500')
+const maxTranscriptChars = Number(process.env.MAX_TRANSCRIPT_CHARS || '6000')
+
+const retry429Max = Number(process.env.RETRY_429_MAX || '3')
+const retry429SleepMs = Number(process.env.RETRY_429_SLEEP_MS || '65000')
 
 const ytDlpBin = process.env.YT_DLP_BIN || '/data/linuxbrew/.linuxbrew/bin/yt-dlp'
 const model = process.env.ANTHROPIC_MODEL || 'claude-haiku-4-5'
@@ -105,17 +109,37 @@ function shouldEnrich(v){
   return false
 }
 
+function isRateLimit429(err){
+  const msg = String(err?.message || err)
+  return msg.includes('rate_limit_error') || msg.includes('429') || (err?.status === 429)
+}
+
 async function summarizeAndTag({ transcript, ytTitle, ytDescription }){
   const prompt = `You are helping build a webpage called "Islamic Studies at MCCT".\n\nGiven a YouTube lecture transcript (auto-generated, may be messy), produce:\n1) aiTitle: a short, clear, human-friendly title (max ~80 chars)\n2) topics: 1-3 tags chosen ONLY from this list: ${topicsAllowed.join(', ')}\n3) summary: 1-2 sentence summary.\n\nRules:\n- Use respectful, neutral wording.\n- Prefer specific series names when evident (e.g. Riyadh as-Salihin, Al-Wajeez).\n- If unsure, choose "Other".\n- Output STRICT JSON with keys: aiTitle, topics, summary.\n\nYouTube title: ${ytTitle || ''}\nYouTube description: ${truncate(ytDescription || '', 800)}\n\nTranscript:\n${truncate(transcript, maxTranscriptChars)}\n`
 
-  const msg = await client.messages.create({
-    model,
-    max_tokens: 500,
-    temperature: 0.2,
-    messages: [{ role: 'user', content: prompt }]
-  })
+  let attempt = 0
+  while (true) {
+    try {
+      const msg = await client.messages.create({
+        model,
+        max_tokens: 500,
+        temperature: 0.2,
+        messages: [{ role: 'user', content: prompt }]
+      })
 
-  const text = msg.content?.[0]?.text || ''
+      return msg
+    } catch (err) {
+      attempt += 1
+      if (attempt <= retry429Max && isRateLimit429(err)) {
+        console.warn(`429 rate limit; sleeping ${retry429SleepMs}ms then retrying (attempt ${attempt}/${retry429Max})`)
+        await sleep(retry429SleepMs)
+        continue
+      }
+      throw err
+    }
+  }
+
+  // unreachable
   const start = text.indexOf('{')
   const end = text.lastIndexOf('}')
   if (start === -1 || end === -1) throw new Error('No JSON found in model output')
@@ -166,11 +190,25 @@ async function main(){
       console.log(`Transcript ${id}…`)
       const transcript = await getTranscriptText(id)
       console.log(`Claude summarize ${id}…`)
-      const { aiTitle, topics, summary } = await summarizeAndTag({
+      const msg = await summarizeAndTag({
         transcript,
         ytTitle: v.title,
         ytDescription: v.description || ''
       })
+
+      const text = msg.content?.[0]?.text || ''
+      const start = text.indexOf('{')
+      const end = text.lastIndexOf('}')
+      if (start === -1 || end === -1) throw new Error('No JSON found in model output')
+      const obj = JSON.parse(text.slice(start, end + 1))
+
+      const aiTitle = (typeof obj.aiTitle === 'string' && obj.aiTitle.trim()) ? obj.aiTitle.trim() : (v.title || 'Untitled')
+      const summary = (typeof obj.summary === 'string') ? obj.summary.trim() : ''
+      const topics = Array.isArray(obj.topics) ? obj.topics.filter(t => topicsAllowed.includes(t)).slice(0,3) : []
+
+      v.aiTitle = aiTitle
+      v.topics = topics.length ? topics : ['Other']
+      v.summary = summary
       v.aiTitle = aiTitle
       v.topics = topics
       v.summary = summary
