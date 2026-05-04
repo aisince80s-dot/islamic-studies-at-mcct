@@ -2,9 +2,9 @@ name: Update videos.json
 
 on:
   workflow_dispatch:
-  schedule:
+  # schedule:
     # Daily at 05:30 UTC (~10:30pm Arizona, ~1:30am EDT)
-    - cron: '30 5 * * *'
+    # - cron: '30 5 * * *'
 
 permissions:
   contents: write
